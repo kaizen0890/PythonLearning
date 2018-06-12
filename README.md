@@ -16,10 +16,10 @@ The following is my self-study machine-learning plan. It's divided to some stage
 
 1. Stage 1: learning Python. 
    - Goals: 
-     - Basic understanding about python language: function, class, variable, list, dictionary, loop, classes, file and exceptions
-     - Create a small project which uses almost basic python knowledge (Object-Oriented-Programming)
-     - Reference documents: Python Crash Course-Eric Matthes (good book), Learn Python the hard-way.
-     - Expected time: 1 week
+      - Basic understanding about python language: function, class, variable, list, dictionary, loop, classes, file and exceptions
+      - Create a small project which uses almost basic python knowledge (Object-Oriented-Programming)
+      - Reference documents: Python Crash Course-Eric Matthes (good book), Learn Python the hard-way.
+      - Expected time: 1 week
 2. Stage 2: learning Python with Opencv
    - Goals: 
       - Learning all basic opencv function
@@ -32,31 +32,31 @@ The following is my self-study machine-learning plan. It's divided to some stage
    This stage need to divide to major plans, i will learning two plan at the same time. It's will take a long time to learn but i think it's suit to me. Because you can not deeply understand mathematic algorithm or theories without practice. In contrast, you also aren't able to resolve machine-learning problem without understanding about theories. Therefore, "Study goes as a pair with practice" in this case is necessary ^^!
    * Plan 1: Learning advanced python
       - Goals: 
-            - Skilled program with Numpy, Sci-kit learn libraries
-            - Working with data science using python
-            - Finish Python Crash Course-Eric Matthes and Learn Python the hard-way books
-            - Apply python to program basic mathematic: basic machine learning, statistic (mean, variance, standard deviation, etc.), Linear algebra (vectors, matrices, etc.), Calculus (differentiation, integration, partial derivatives, etc.)
-      - Reference documents: 
+         - Skilled program with Numpy, Sci-kit learn libraries
+         - Working with data science using python
+         - Finish Python Crash Course-Eric Matthes and Learn Python the hard-way books
+         - Apply python to program basic mathematic: basic machine learning, statistic (mean, variance, standard deviation, etc.), Linear algebra (vectors, matrices, etc.), Calculus (differentiation, integration, partial derivatives, etc.)
+         - Reference documents: 
    * Plan 2: Start to learning machine learning
       - Goals: 
-            - Understanding about basic machine learning algorithms
-            - Understanding data science
-            - Understanding Pattern-Classification theory
-            - Practice Sci-kit and Tensor-flow to machine learning
-            - Can understanding and following some machine-learning course on Coursera
+         - Understanding about basic machine learning algorithms
+         - Understanding data science
+         - Understanding Pattern-Classification theory
+         - Practice Sci-kit and Tensor-flow to machine learning
+         - Can understanding and following some machine-learning course on Coursera
       - Reference documents: 
-            - Machine Learning cơ bản Vu Huu Tiep
-            - (https://huytd.github.io/posts/machine-learning-deep-learning.html)
-            - (https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-            - Some important machine learning course on Coursera by Andrew Ng
-            - Mathematic for computer science
-            - Linear algebra and its applications
-            - Theory of matrics
-            - Data Science from Scratch
-            - Machinelearning in Python
-            - Pattern-Classification 
-            - Understanding machine learning theory algorithms
-       - Expected time: TBD
+         - Machine Learning cơ bản Vu Huu Tiep
+         - (https://huytd.github.io/posts/machine-learning-deep-learning.html)
+         - (https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+         - Some important machine learning course on Coursera by Andrew Ng
+         - Mathematic for computer science
+         - Linear algebra and its applications
+         - Theory of matrics
+         - Data Science from Scratch
+         - Machinelearning in Pyth  
+         - Pattern-Classification 
+         - Understanding machine learning theory algorithms
+      - Expected time: TBD
              
                 
                 
