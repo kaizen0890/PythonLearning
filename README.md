@@ -46,8 +46,8 @@ The following is my self-study machine-learning plan. It's divided to some stage
             - Can understanding and following some machine-learning course on Coursera
       - Reference documents: 
             - Machine Learning cơ bản - Vu Huu Tiep
-            - [Github page] (https://huytd.github.io/posts/machine-learning-deep-learning.html)
-            - [Github page] (https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+            - (https://huytd.github.io/posts/machine-learning-deep-learning.html)
+            - (https://github.com/ZuzooVn/machine-learning-for-software-engineers)
             - Some important machine learning course on Coursera by Andrew Ng
             - Mathematic for computer science
             - Linear algebra and its applications
