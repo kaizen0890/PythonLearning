@@ -1,16 +1,16 @@
-#PythonLearning
-#About me
+# PythonLearning
+## About me
 
 My name is Nguyen Huy Thanh, english name: Thomas Nguyen, chinese name: 阮輝青. I'm embedded software engineering in Vietnam
 About my degree, I got master of computer science in NATIONAL KAOHSIUNG UNIVERSITY OF APPLIED SCIENCES (Taiwan). In Taiwan, my research major is computer vison, pattern classification and machine-learning. After graduated, i backed to Vietnam and worked in Foxconn coporation's RD office. In here, my work is embedded system developing. 
 Although now i'm working in different field but i still very passionate in my researching field before, especially machine-learning and deep-learning. I wish that in near furture i will work in my expecting major, therefore now i spend a lot of time to self-learning about machine-learning and deep learning
 
-#What is it?
+## What is it?
 
 This is my multi-month study plan for going from software engineering (self-taught) to machine learning engineer.
 My main goal was to find an approach to studying more deeply about Machine Learning that is mainly hands-on and abstracts most of the Math for the beginner. This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
 
-#What's my plan?
+## What's my plan?
 
 The following is my self-study machine-learning plan. It's divided to some stages, each stage i will prepare knowledge and programing skill for next stage. Every stage has Goals and Expected time, i will try my best to follow and finish it.
 
@@ -46,8 +46,8 @@ The following is my self-study machine-learning plan. It's divided to some stage
             - Can understanding and following some machine-learning course on Coursera
       - Reference documents: 
             - Machine Learning cơ bản - Vu Huu Tiep
-            - https://huytd.github.io/posts/machine-learning-deep-learning.html
-            - https://github.com/ZuzooVn/machine-learning-for-software-engineers
+            - [Github page] (https://huytd.github.io/posts/machine-learning-deep-learning.html)
+            - [Github page] (https://github.com/ZuzooVn/machine-learning-for-software-engineers)
             - Some important machine learning course on Coursera by Andrew Ng
             - Mathematic for computer science
             - Linear algebra and its applications
