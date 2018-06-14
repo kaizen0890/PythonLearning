@@ -1,0 +1,49 @@
+This is instruction how to use my programs step by step:
+
+- Step 1: Firstly, we have to install "opencv > 3.0" libraries and "opencv contrib" for python on Ubuntu. In here, i use Ubuntu  14.04 LTS. We also have to install matplotlib library to display image.
+				Commands: 
+									sudo apt-get install python-pip
+									sudo pip install opencv-contrib-python
+									sudo apt-get install python3-matplotlib
+									.......
+
+- Step 2: After install necessary libraries for opencv, you can go to each directory to run programs by using command:
+					python "name_of_programs"
+
+
+
+
+Some important Git commands:
+
+///////////////////////// git command ////////////////////////
+
+git add 
+git commit -m
+git push origin thomas
+
+
+git clone -b original_done http://10.224.56.64:3000/luke/GPON_FULL.git   /// clone branch from repository
+git remote set-url origin http://10.224.56.64:3000/thomas/GPON_LEARNING.git  /// Re-set url 
+
+git push -u origin master  /// push repository to master branch on web server
+git push -u origin "....."  /// push local branch to web server
+git remote -v //// Show remote url
+git remote rm origin  /// remove remote origin 
+
+git checkout -b test_branch "name of commit"   //// checkout project back to specified commit
+
+
+<-------------- Update repository ----------->
+
+git fetch origin "name of branch"
+git pull -f origin fpt
+
+<--------------- Go back preview commit-------------->
+
+git reset --soft HEAD~1
+
+<-------------- Push all change of root directory to original ----------->
+
+git add .
+git commit -m "Message"
+git push origin master
